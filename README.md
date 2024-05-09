@@ -1,1 +1,1 @@
-# facia_image_recognition
+# facial_image_recognition
